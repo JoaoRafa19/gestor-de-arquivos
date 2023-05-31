@@ -117,6 +117,12 @@ Apontador criaNoExterno(String palavra, PATRICIA *P, int idDoc)
 /// @param P
 int pesquisa(String chave, PATRICIA P, Apontador *result)
 {
+    if(!(*chave)){
+        return 0;
+    }
+    if(strcmp(chave, "") == 0){
+        return 0;
+    }
     int len = strlen(chave);
     int indiceDif = P->no.Ninterno.indiceDif;
 

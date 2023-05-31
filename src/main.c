@@ -96,9 +96,17 @@ static void get_text(GtkWidget *widget,
     int nFiles;
     String files = getFiles("entrada.txt", NULL, &nFiles);
     String result;
+
+    gchar *display;
+    if(strcmp("", termos)==0){
+        return;
+    }
     buscaDoc(termos, c, widgets->patricia, array, &result);
+    display = g_strdup_printf("%s", result);  
+    gtk_label_set_text (GTK_LABEL(widgets->lb_message), display); //set label to "display"
+    g_free(display);     
     
-    gtk_label_set_markup(GTK_LABEL(widgets->lb_message), result);
+    //gtk_label_set_label(GTK_LABEL(widgets->lb_message), result);
 }
 
 int countChars(char *s, char c)
