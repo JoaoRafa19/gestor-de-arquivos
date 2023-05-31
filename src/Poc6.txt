@@ -1,0 +1,9 @@
+Estudos sobre fluxos de mobilidade vem sendo cada vez mais re- ˆ
+levantes devido ao aumento expressivo de dispositivos de coleta de dados e
+aplicac¸oes. Apesar disto, s ˜ ao poucos os trabalhos que abordam tal tema, al ˜ em´
+de ferramentas que auxiliam neste aspecto. Neste trabalho, foi implementada
+uma ferramenta que busca facilitar os estudo relacionados a fluxo de mobilidade, alem de demonstrar sua aplicac¸ ´ ao em um estudos de caso, avaliando o ˜
+impacto que a implementac¸ao de rotas seguras causa na cidade de S ˜ ao Paulo. ˜
+Com os resultados, percebe-se que esta soluc¸ao pode aperfeic¸oar estudos j ˜ a fei- ´
+tos na area de mobilidade, trazendo mais detalhe sobre as mudanc¸as feitas, e ´
+como este impacto reflete nos deslocamentos.

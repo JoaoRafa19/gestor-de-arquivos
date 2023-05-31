@@ -1,0 +1,16 @@
+bin/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+*.o
+*.h.gch
+*.out
+*.gch
+*.exe
+**/*.out
+
+.vscode/
+bin/glade
+.vscode/c_cpp_properties.json

@@ -1,0 +1,10 @@
+9
+./Pedro.txt
+./Poc1.txt
+./Poc2.txt
+./Poc3.txt
+./Poc4.txt
+./Poc5.txt
+./Poc6.txt
+./Poc7.txt
+./Poc8.txt

@@ -1,0 +1,22 @@
+Ao considerarmos a realização de um evento, seja ele social, esportivo, acadêmico,
+dentre outros, o volume de dados movimentados por seus participantes é alto, além de
+ser sazonal e localizado. Em linhas gerais, os participantes buscam informações sobre
+horários, atividades, localização, assuntos ligados ao evento, bem como trocam mensa-
+gens, comentários, imagens e vídeos. Entretanto, os participantes do evento realizam es-
+sas tarefas de modo individual e desordenado, o que pode deixá-los insatisfeitos por não
+conseguirem as informações necessárias, corretas ou atuais. Isso desestimula os partici-
+pantes e degrada a percepção dos mesmos quanto à qualidade do evento. Mesmo nos
+casos em que o participante não se sinta prejudicado, ele poderá ter a sensação de que
+poderia ter sido melhor atendido ou orientado, de forma a aproveitar ao máximo as ativi-
+dades oferecidas pelo evento. Com este intuito foi criado um sistema para apoio a partici-
+pantes e gestores de evento denominado Sistema Sensível ao Contexto para Apoio à
+Participação em Eventos ou SCAPE, desenvolvido durante o projeto PIBIT.
+     Com a modernização dos meios de comunicação, tanto aparelhos e estruturas de te-
+lecomunicações, o acesso à internet em qualquer localidade e o compartilhamento de in-
+formações permitiu a criação de aplicações que, visão cada vez mais o relacionamento
+interpessoal e entre usuário e localidade. Com este intuito podemos destacar que estas
+aplicações estão se comportando cada vez mais como Sistemas de Sensoriamento Parti-
+cipativo. Esses sistemas têm como estrutura principal as Redes de Sensores Participativo
+que, utiliza o compartilhamento de dados através de seus usuários. Trazendo este concei-
+to para a ferramenta SCAPE podemos desenvolver novas funcionalidade para uma me-
+lhor interação entre os participantes e o evento.
